@@ -1,0 +1,39 @@
+{
+  "Permanent_Address": {
+    "House_Number": "001",
+    "City": "Balasore",
+    "State": "Odisha",
+    "Country": "India",
+    "PhoneNumber": [
+      {
+        "Std_Code": "91",
+        "Home": "2412893478",
+        "Mobile": "7682064384"
+      },
+      {
+        "Std_Code": "78",
+        "Home": "327472789234",
+        "Mobile": "2384289347"
+      }
+    ]
+  },
+  "Current_Address": {
+    "House_Number": "002",
+    "City": "Bangalore",
+    "State": "Karnataka",
+    "Country": "India",
+    "PhoneNumber": [
+      {
+        "Std_Code": "09",
+        "Home": "293459234",
+        "Mobile": "3234523342"
+      },
+      {
+        "Std_Code": "56",
+        "Home": "54567457",
+        "Mobile": "7354357455"
+      }
+    ]
+  },
+  "stId": "10414237"
+}

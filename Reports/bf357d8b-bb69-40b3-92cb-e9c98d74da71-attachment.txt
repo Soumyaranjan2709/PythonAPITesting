@@ -1,0 +1,4 @@
+10414996
+{"status":"true","msg":"Add  data success"}
+{"status":"true","msg":"Add  data success"}
+{"status":"true","data":{"first_name":"Saksham","middle_name":"Kumar","last_name":"Singh","date_of_birth":"30/09/2000","TechnicalDetails":[{"id":799630,"language":["JAVA","Python"],"yearexp":"3","lastused":"2024","st_id":"10414996"}],"Address":[]}}
